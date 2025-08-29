@@ -1,0 +1,2 @@
+# Shiritori
+Shiritori: the Game
